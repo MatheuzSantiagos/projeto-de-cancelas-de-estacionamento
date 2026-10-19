@@ -1,0 +1,8 @@
+.venv/
+.env
+__pycache__/
+*.py[cod]
+*.log
+projsala/db.sqlite3
+projsala/staticfiles/
+projsala/media/
